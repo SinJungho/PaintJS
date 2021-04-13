@@ -1,2 +1,3 @@
-# PaintJS
-Painting Board made with Vanilla JS
+Paint JS 
+
+git clone https://github.com/SinJungho/PaintJS
